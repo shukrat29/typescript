@@ -3,8 +3,8 @@
     "target": "es6",
     "module": "commonjs",
     "strict": true,
-    "rootDir": ".", // Your source is everything under /typescript
-    "outDir": "./dist", // Output JS will go into /typescript/dist/
+    "rootDir": ".",
+    "outDir": "./dist",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true
   },
