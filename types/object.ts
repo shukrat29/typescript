@@ -1,4 +1,4 @@
-let user: {
+let user1: {
   name: string;
   age: number | string;
   hobbies: string[];
